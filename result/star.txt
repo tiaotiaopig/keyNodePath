@@ -1,0 +1,10 @@
+node-1 : 28
+node-2 : 7
+node-3 : 7
+node-4 : 7
+node-5 : 7
+node-6 : 7
+node-7 : 7
+node-8 : 7
+node-0 : 0
+node-0 : 0

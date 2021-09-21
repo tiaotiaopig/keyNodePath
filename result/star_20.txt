@@ -1,0 +1,10 @@
+node-3 : 249
+node-15 : 248
+node-17 : 222
+node-14 : 189
+node-18 : 189
+node-16 : 96
+node-2 : 65
+node-19 : 65
+node-8 : 37
+node-13 : 37

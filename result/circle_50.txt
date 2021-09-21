@@ -1,0 +1,10 @@
+node-28 : 524
+node-18 : 511
+node-36 : 461
+node-7 : 429
+node-37 : 338
+node-29 : 330
+node-38 : 330
+node-39 : 329
+node-27 : 313
+node-17 : 308

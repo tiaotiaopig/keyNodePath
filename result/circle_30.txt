@@ -1,0 +1,10 @@
+node-23 : 493
+node-6 : 388
+node-1 : 352
+node-25 : 345
+node-24 : 340
+node-26 : 288
+node-27 : 270
+node-7 : 268
+node-28 : 253
+node-8 : 250
